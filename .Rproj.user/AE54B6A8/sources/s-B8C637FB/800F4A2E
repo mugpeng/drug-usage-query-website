@@ -1,0 +1,26 @@
+{
+    "id": "800F4A2E",
+    "path": "~/Nutstore Files/01-dir_for_work/11-drug-usage-shiny-page/app2.R",
+    "project_path": "app2.R",
+    "type": "r_source",
+    "hash": "790134257",
+    "contents": "",
+    "dirty": true,
+    "created": 1631268362936.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,0",
+        "scrollLine": "4"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1631270575,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1631313517725,
+    "read_only": false,
+    "read_only_alternatives": []
+}
