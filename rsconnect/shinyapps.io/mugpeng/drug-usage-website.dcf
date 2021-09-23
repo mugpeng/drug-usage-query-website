@@ -1,0 +1,11 @@
+name: drug-usage-website
+title:
+username:
+account: mugpeng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4632246
+bundleId: 5022561
+url: https://mugpeng.shinyapps.io/drug-usage-website/
+when: 1631352943.01181
+lastSyncTime: 1631352943.01182
